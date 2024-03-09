@@ -98,6 +98,6 @@ You should receive a response "Hello, Azure Web Apps!" indicating that the appli
 
 Feel free to contribute to this project by creating issues or submitting pull requests.
 
-For any questions or issues, please contact sohamdeshmukh611@gmail.com(mailto:sohamdeshmukh611@gmail.com).
+For any questions or issues, please contact sohamdeshmukh611@gmail.com
 
 Happy coding!
