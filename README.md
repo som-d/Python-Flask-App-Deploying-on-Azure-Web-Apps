@@ -1,4 +1,4 @@
-# Deploying Flask/FastAPI Application on Azure Web Apps
+# Deploying Flask Application on Azure Web Apps
 
 This repository contains a simple Flask application that can be deployed on Azure Web Apps. The application consists of a single endpoint that returns "Hello, Azure Web Apps!" when accessed.
 
