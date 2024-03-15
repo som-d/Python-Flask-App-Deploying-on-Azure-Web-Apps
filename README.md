@@ -11,7 +11,7 @@ To run the application locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/som-d/Python-Flask-App-Deploying-on-Azure-Web-Apps.git
     ```
 
 2. Navigate to the project directory:
